@@ -1,0 +1,4 @@
+The most magic game on Mac OS X, at least from Snow Leopard to Lion, to kill your Mac Computer in several moves.
+
+Environment: Lion + Xcode4.2
+  But we have repro-ed this in Snow Leopard too.
